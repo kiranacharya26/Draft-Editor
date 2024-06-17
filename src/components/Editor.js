@@ -9,7 +9,7 @@ const EditorComponent = ({ editorState, handleKeyCommand, onChange, customStyleM
         handleKeyCommand={handleKeyCommand}
         onChange={onChange}
         customStyleMap={customStyleMap}
-        placeholder="Type # followed by a space to start a heading..."
+        placeholder="Type here..."
       />
     </div>
   );
